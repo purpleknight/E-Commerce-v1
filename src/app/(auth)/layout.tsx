@@ -39,7 +39,7 @@ export default function AuthLayout({
 
         {/* Background gradient overlay */}
         <div
-          className="absolute inset-0 -z-0 opacity-20"
+          className="absolute inset-0 -z-10 opacity-20"
           style={{
             background:
               "linear-gradient(135deg, rgba(211,121,24,0.4) 0%, transparent 60%)",
