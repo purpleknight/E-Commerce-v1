@@ -1,9 +1,0 @@
-First Ecommerce Project using:
-   Neon Drizzle ORM,
-   Typescript,
-   Next.JS,
-   Tailwindcss,
-   Zustand
-
-Using Devin AI Agent, Claude Code, 
-   CodeRabbit & ChatGPT for code review. 
